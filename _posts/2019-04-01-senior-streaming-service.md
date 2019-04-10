@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Markdown Syntax"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+title:  "Senior Streaming Service"
+date:   2019-04-01
+excerpt: "중장년층을 위한 동영상 스트리밍 플랫폼"
+project: true
 tag:
 - markdown 
 - syntax

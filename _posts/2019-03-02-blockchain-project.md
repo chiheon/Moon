@@ -2,14 +2,11 @@
 layout: post
 title:  "BlockChain Platform"
 date:   2019-03-02
-excerpt: "멋쟁이 사자처럼 7기 김치헌"
+excerpt: "블록체인 플랫폼"
 project: true
 tag:
-- jekyll 
-- moon
-- blog
-- about
-- theme
+- likelion
+- concept
 comments: true
 ---
 

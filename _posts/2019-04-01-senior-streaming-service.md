@@ -5,11 +5,8 @@ date:   2019-04-01
 excerpt: "중장년층을 위한 동영상 스트리밍 플랫폼"
 project: true
 tag:
-- markdown 
-- syntax
-- sample
-- test
-- jekyll
+- likelion
+- concept
 comments: true
 ---
 
